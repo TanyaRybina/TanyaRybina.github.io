@@ -1,0 +1,40 @@
+body {
+	background-color: #0c132f;
+	text-align: center;
+}
+.card {
+padding: 10px;
+margin: 20px auto;
+}
+#navbarNav {
+background-color: #1e4f92;	
+}
+.navbar-brand{
+	background-color: #1e4f92;
+	font-family: arial black;
+	color: #58edff;
+}
+.navbar{
+	background-color:#1e4f92 ;
+	lighting-color: : #13c7fc;
+}
+
+.btn {
+background-color: #071748;
+}
+.container {
+
+}
+.row {
+	margin: 20px auto;
+}
+footer {
+	color:#0a3f9d;
+}
+.navbar-toggler  {
+	background-color:#a2d7fd;
+}
+.navbar-toggler-icon  {
+	color: #2e9fcc;
+	margin-right: 10px;
+	}
