@@ -1,0 +1,31 @@
+body {
+	background-color: #0c132f;
+	text-align: center;
+}
+#navbarNav {
+background-color: #1e4f92;	
+}
+.navbar-brand{
+	background-color: #1e4f92;
+	font-family: arial black;
+	color: #58edff;
+}
+.navbar{
+	background-color:#1e4f92 ;
+	lighting-color: : #13c7fc;
+}
+.inf{
+	color:#e4e4e4; 
+	text-align:left;
+	margin: 20px auto;
+	padding: 20px;
+}	
+.fuel{
+	color:#e4e4e4;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+button {
+	margin-top: 20px;
+}
